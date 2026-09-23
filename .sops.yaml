@@ -1,0 +1,9 @@
+keys:
+  - &zack age1xxlv2k00qjmw6r4fzx42mzhd7526xyj3pc6rn80l0zrp4fuanchqpu8qtd
+  - &host_forward-onto-dawn age1q8qsxuzaq3gmyd35k6qd5vyvf48py5jxz09wna6qcjhlfuamtywsfkercu
+creation_rules:
+  - path_regex: secrets.yaml$
+    key_groups:
+    - age:
+      - *zack
+      - *host_forward-onto-dawn
