@@ -1,11 +1,9 @@
 keys:
-  - &users: 
-    - &zack age1xxlv2k00qjmw6r4fzx42mzhd7526xyj3pc6rn80l0zrp4fuanchqpu8qtd
-  - &hosts:
-    - &forward-onto-dawn age1clj6a2d5f6a9p66rc7qgm363eg6pf8pu92wdcxwwc3mvaxwt0q7sxjfsw8
+  - &in-amber-clad age170vg75eq234wltfhyrxfvdhu7ttudte0dc7pvzdyw2a9echzwudqhlu3sq
+  - &forward-onto-dawn age1clj6a2d5f6a9p66rc7qgm363eg6pf8pu92wdcxwwc3mvaxwt0q7sxjfsw8
 creation_rules:
   - path_regex: secrets.yaml$
     key_groups:
     - age:
-      - *zack
+      - *in-amber-clad
       - *forward-onto-dawn
