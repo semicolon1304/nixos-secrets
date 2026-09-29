@@ -1,5 +1,5 @@
 keys:
-  - &in-amber-clad age170vg75eq234wltfhyrxfvdhu7ttudte0dc7pvzdyw2a9echzwudqhlu3sq
+  - &in-amber-clad age13grvvydjrxnnp4dhz0zjefjyyqcpkkwv976m6krgrzxeta33vyts4fswmw
   - &forward-onto-dawn age1clj6a2d5f6a9p66rc7qgm363eg6pf8pu92wdcxwwc3mvaxwt0q7sxjfsw8
 creation_rules:
   - path_regex: secrets.yaml$
