@@ -3,7 +3,7 @@ keys:
     - &zack age1lzvvvd3yyxgmjm4thrc46e6pwhc9lm0ve2ya3nkjalk5tg8y3c0qg0z2qq 
   - &hosts: 
     - &forward-onto-dawn age1clj6a2d5f6a9p66rc7qgm363eg6pf8pu92wdcxwwc3mvaxwt0q7sxjfsw8
-    - &in-amber-clad ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGwbyc2XeDPHqfNuhy0mJehbCeW8Zyh6zVHEucNW67bh
+    - &in-amber-clad ssh-ed25519 age1xd0qma5n6f8xxhzmd4juzjhw29w8846dejrn8x2d2m3aydq9x5fsdlm836
 creation_rules:
   - path_regex: secrets.yaml$
     key_groups:
