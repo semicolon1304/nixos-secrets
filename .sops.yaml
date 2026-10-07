@@ -2,6 +2,7 @@ keys:
   - &backup age1lzvvvd3yyxgmjm4thrc46e6pwhc9lm0ve2ya3nkjalk5tg8y3c0qg0z2qq  
   - &forward-onto-dawn age1tv3dyxsmm3w7j2j0r7w203r6s0kakk2httyxeqfjwsd76cys9cyq008yp2
   - &in-amber-clad age1xd0qma5n6f8xxhzmd4juzjhw29w8846dejrn8x2d2m3aydq9x5fsdlm836
+  - &uhhhh age1vuz7p6dq27h4m552wee34xz3sawn2udq05kc7e5chm6sm7u3yc6s672427
 creation_rules:
   - path_regex: secrets.yaml$
     key_groups:
